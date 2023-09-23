@@ -18,10 +18,11 @@ public class C04_LocatorsTagName {
         //2- https://www.automationexercise.com/ adresine gidin
 
         //3- Sayfada 147 adet link bulundugunu test edin.
-        List<> LinkListesi= driver.findElements("a");
-        int actualLinkSsayisi=LinkListesi.size();
+       // List<> LinkListesi= driver.findElements();
+        //int actualLinkSsayisi=LinkListesi.size();
         //4- Products linkine tiklayin
         //5- special offer yazisinin gorundugunu test edin
         //6- Sayfayi kapatin
+
     }
 }
